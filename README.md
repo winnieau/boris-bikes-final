@@ -50,4 +50,9 @@ I'd like vans to collect working bikes from garages and distribute them to docki
 As a member of the public,
 So that I can choose a particular bike of my preference,
 I'd like to be able to specify which bike I receive.
+
 ```
+
+![alt text](http://tse1.mm.bing.net/th?&id=OIP.M18acf56519be6509d806450f2f410553o0&w=300&h=300&c=0&pid=1.9&rs=0&p=0)
+
+
