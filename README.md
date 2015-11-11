@@ -1,6 +1,6 @@
 # Boris-Bikes
 
-User stories:
+User Stories:
 
 ```
 As a person,
