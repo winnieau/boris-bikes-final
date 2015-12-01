@@ -1,5 +1,7 @@
 # Boris-Bikes
 
+A project done at Makers Academy based off of Santander Cycles. 
+
 User Stories:
 
 ```
